@@ -137,3 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Gemini API team for AI capabilities
 - Contributors and maintainers
 
+
+---
+> **This is Demo. contains no confidential data/IP**

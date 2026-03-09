@@ -2,6 +2,8 @@
 
 A comprehensive web-based dashboard for analyzing traffic patterns in Singapore using traffic camera data. The dashboard provides real-time insights, visualizations, and AI-powered analysis of traffic conditions.
 
+THIS IS A DEMO. CONTAINS NO CONFIDENTIAL DATA/IP
+
 ## Features
 
 ### 🚦 Traffic Monitoring
